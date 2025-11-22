@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang = "en">
+<style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: powderblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style> 
+<head>
+<title>Anas HTML | Coding?</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<a style="text-align: right; font-size: 190%" href= "new-page.html"> 2nd Page </a>
+<a style="text-align: left; font-size: 190%" href= "index.html"> Home</a> <br>
+<body style="background-color: #FFDBAC;"> 
+<h1 style="font-family:georgia; font-size:550%; color:blue; text-align:center;"><img style="float: center; width:600px;height: 400px;" src="html5.png" alt= "HTML5 Logo"><br>
+Coding. What Is It? </h1> 
+<p style="font-family:comic sans ms; font-size:300%; color: #000; text-align:center;"> <br>“Coding” means writing instructions that a computer can understand and follow. Computers only understand very precise, logical commands, so coding is the process of creating those commands in a programming language. These languages—like Python, JavaScript, C++, or HTML/CSS for web pages—act as a bridge between human ideas and computer actions.
+When you code, you break a problem into smaller steps and write clear instructions that tell the computer what to do, how to do it, and when to do it. For example, in a game, code controls how characters move, how points are calculated, and how graphics appear. In a website, code determines how the page looks, reacts, and works. Coding also involves logic (if-this-then-that), variables (storing information), functions (reusable actions), and algorithms (a series of steps to solve a problem). In simple terms, coding is like giving a robot extremely detailed instructions—if the steps are right, it will do exactly what you want; if the steps have mistakes, it won’t work correctly. It’s both logical and creative, and it’s how modern apps, websites, software, and even smart devices are built.</p>
+<h2 style="font-family:georgia; font-size:550%; color:blue; text-align:center;"> <img style="float: center; width:600px;height: 400px;" src="thinkinghtml.png" alt= "Why is it important"><br>Coding with HTML: What Makes It So Essential?</h2>
+<p style="font-family:comic sans ms; font-size:300%; color: #000; text-align:center;"> HTML, or HyperText Markup Language, is special because it forms the structural backbone of every webpage on the internet. Unlike programming languages that handle complex logic, HTML focuses entirely on organizing and presenting content in a way browsers can understand. It allows developers to define elements like text, images, links, and layout with simple, readable tags. What makes HTML unique is that it is universally supported—every browser, device, and platform interprets HTML the same way, ensuring consistent display of content worldwide. Its simplicity makes it beginner-friendly, while its power and flexibility make it essential even for advanced web development. Whether you’re building a simple page or a dynamic application, HTML is always the first step that brings the web to life.</p>
+
+</html>
